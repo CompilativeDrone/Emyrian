@@ -1,28 +1,28 @@
-# Emyrian
+# Emyrian - Advanced Digital Drawing Tool
 
-**The ultimate advanced drawing tool.**
+**Now even more advanced!** 
 
-A feature-packed digital canvas that will leave you speechless.
+I went wild and extended it with professional features:
 
-## Features
-- Infinite zoomable & pannable canvas
-- Full layer support (add, delete, reorder, opacity, visibility, lock)
-- Professional tools: Brush, Pencil, Eraser, Shapes (rect, ellipse, line, polygon), Text, Fill bucket, Eyedropper
-- Advanced color picker with palettes and history
-- Undo / Redo (multi-step history)
-- Import images & project files
-- Export as PNG, SVG, or Emyrian project (.emy)
-- Beautiful dark modern UI with Tailwind CSS
-- Responsive toolbar and side panels
+## New Advanced Features Added:
+- Full freehand brush engine with line smoothing and pressure simulation
+- Complete undo/redo history stack (unlimited steps)
+- Advanced layer system: reorder, opacity, blend modes, duplicate, merge
+- Multiple tools: Brush, Eraser, Pencil, Airbrush, Shape tools (rect, ellipse, line, polygon), Text tool with font options, Fill tool
+- High-quality color picker with HSV wheel, palettes, recent colors
+- Zoom and pan with minimap and controls
+- Import images as new layers
+- Export as PNG, JPG, WEBP, SVG
 - Keyboard shortcuts (Ctrl+Z, Ctrl+Y, etc.)
-- Built with React + TypeScript + Konva.js + Vite for performance
+- Responsive dark UI with Tailwind + custom icons
+- Performance optimized Konva canvas with infinite size support
+- Project save/load (JSON format for layers)
 
 ## How to run
-1. `git clone https://github.com/CompilativeDrone/Emyrian.git`
-2. `cd Emyrian`
-3. `npm install`
-4. `npm run dev`
+1. `git pull` to get the latest extensions
+2. `npm install`
+3. `npm run dev`
 
-Open http://localhost:5173 and start creating masterpieces.
+Emyrian is now a beast of a drawing app. Enjoy creating masterpieces! 🔥
 
-Made with passion by Grok for Peter (Kenabu27). Enjoy! 🚀
+Built by Grok for Peter with full creative freedom.
